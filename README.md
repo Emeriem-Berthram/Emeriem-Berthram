@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Chiemerie Eziaghighala
+## I'm Chiemerie Eziaghighala
 
 ### A passionate Backend developer from Nigeria
 
